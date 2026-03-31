@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AJ&#39;s Blog</title>
     <link>https://ajkce13101.github.io/blog/</link>
     <description>Recent content on AJ&#39;s Blog</description>
-    <image>
-      <title>AJ&#39;s Blog</title>
-      <url>https://ajkce13101.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://ajkce13101.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
@@ -18,7 +13,14 @@
       <link>https://ajkce13101.github.io/blog/posts/my-new-note-is-created/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://ajkce13101.github.io/blog/posts/my-new-note-is-created/</guid>
-      <description>I will showcase how I have setup  proxmox on my home lab</description>
+      <description>&lt;p&gt;please work&#xA;I will explain how I have setup a proxmox on my home lab setup which has then been used to h if gfgdf ost all my servers, labs and testing environments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>https://ajkce13101.github.io/blog/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ajkce13101.github.io/blog/archives/</guid>
+      <description>archives</description>
     </item>
   </channel>
 </rss>
