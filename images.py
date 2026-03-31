@@ -3,9 +3,9 @@ import re
 import shutil
 
 # Paths (using raw strings to handle Windows backslashes correctly)
-posts_dir = r"D:\Obsidian\myblog\content\posts"
+posts_dir = r"D:\Blog\blog\content\posts"
 attachments_dir = r"C:\Users\kshet\Documents\obsedian"
-static_images_dir = r"D:\Obsidian\myblog\static\images"
+static_images_dir = r"D:\Blog\blog\static\images"
 
 # Step 1: Process each markdown file in the posts directory
 for filename in os.listdir(posts_dir):

@@ -2,10 +2,10 @@
 
 # Set variables for Obsidian to Hugo copy
 $sourcePath = "C:\Users\kshet\Documents\obsedian\posts"
-$destinationPath = "D:\Obsidian\myblog\content\posts"
+$destinationPath = "D:\Blog\blog\content\posts"
 
 # Set Github repo 
-$myrepo = "git@github.com:Ajkce13101/blog.git"
+$myrepo = "https://github.com/Ajkce13101/blog.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
