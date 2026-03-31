@@ -3,25 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/homelab/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-new-note-is-created/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/proxmox/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/server/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/syntax/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/themes/</loc>
+    <lastmod>2026-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
   </url>
 </urlset>
