@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://github.com/Ajkce13101/blog/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://github.com/Ajkce13101/blog/categories/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/homelab/</loc>
+    <loc>https://github.com/Ajkce13101/blog/tags/homelab/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/my-new-note-is-created/</loc>
+    <loc>https://github.com/Ajkce13101/blog/posts/my-new-note-is-created/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://github.com/Ajkce13101/blog/posts/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/proxmox/</loc>
+    <loc>https://github.com/Ajkce13101/blog/tags/proxmox/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/server/</loc>
+    <loc>https://github.com/Ajkce13101/blog/tags/server/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/syntax/</loc>
+    <loc>https://github.com/Ajkce13101/blog/categories/syntax/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://github.com/Ajkce13101/blog/tags/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/themes/</loc>
+    <loc>https://github.com/Ajkce13101/blog/categories/themes/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://github.com/Ajkce13101/blog/archives/</loc>
   </url>
 </urlset>

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on AJ&#39;s Blog</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://github.com/Ajkce13101/blog/tags/</link>
     <description>Recent content in Tags on AJ&#39;s Blog</description>
     <image>
       <title>AJ&#39;s Blog</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://github.com/Ajkce13101/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://github.com/Ajkce13101/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/Ajkce13101/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homelab</title>
-      <link>https://examplesite.com/tags/homelab/</link>
+      <link>https://github.com/Ajkce13101/blog/tags/homelab/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/homelab/</guid>
+      <guid>https://github.com/Ajkce13101/blog/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxmox</title>
-      <link>https://examplesite.com/tags/proxmox/</link>
+      <link>https://github.com/Ajkce13101/blog/tags/proxmox/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/proxmox/</guid>
+      <guid>https://github.com/Ajkce13101/blog/tags/proxmox/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>https://examplesite.com/tags/server/</link>
+      <link>https://github.com/Ajkce13101/blog/tags/server/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://examplesite.com/tags/server/</guid>
+      <guid>https://github.com/Ajkce13101/blog/tags/server/</guid>
       <description></description>
     </item>
   </channel>
