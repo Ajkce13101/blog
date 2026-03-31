@@ -1,7 +1,7 @@
 +++
 author = "Ajaya K C"
 title = "My home lab proxmox setup"
-date = "2026-3-31"
+date = "2026-03-31"
 description = "I will showcase how I have setup  proxmox on my home lab"
 tags = [
     "homelab",
