@@ -16,6 +16,7 @@ series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+please work
 I will explain how I have setup a proxmox on my home lab setup which has then been used to h if gfgdf ost all my servers, labs and testing environments.
 
 <!--more-->
