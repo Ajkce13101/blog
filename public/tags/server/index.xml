@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Server on AJ&#39;s Blog</title>
-    <link>https://github.com/Ajkce13101/blog/tags/server/</link>
+    <link>https://ajkce13101.github.io/blog/tags/server/</link>
     <description>Recent content in Server on AJ&#39;s Blog</description>
     <image>
       <title>AJ&#39;s Blog</title>
-      <url>https://github.com/Ajkce13101/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/Ajkce13101/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://ajkce13101.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ajkce13101.github.io/blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/Ajkce13101/blog/tags/server/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ajkce13101.github.io/blog/tags/server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My home lab proxmox setup</title>
-      <link>https://github.com/Ajkce13101/blog/posts/my-new-note-is-created/</link>
+      <link>https://ajkce13101.github.io/blog/posts/my-new-note-is-created/</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://github.com/Ajkce13101/blog/posts/my-new-note-is-created/</guid>
+      <guid>https://ajkce13101.github.io/blog/posts/my-new-note-is-created/</guid>
       <description>I will showcase how I have setup  proxmox on my home lab</description>
     </item>
   </channel>
