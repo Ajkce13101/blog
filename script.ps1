@@ -89,7 +89,7 @@ try {
 # Step 4: Build the Hugo site
 Write-Host "Building the Hugo site..."
 try {
-    hugo --gc --minify --baseURL "https://ajkce13101.github.io/blog/"
+    hugo --gc --minify
 } catch {
     Write-Error "Hugo build failed."
     exit 1
