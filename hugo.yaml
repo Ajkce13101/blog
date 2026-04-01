@@ -2,7 +2,7 @@ baseURL: "/"
 title: AJ's Blog
 paginate: 5
 theme: PaperMod
-relativeURLs: false
+relativeURLs: true
 canonifyURLs: true
 enableRobotsTXT: true
 buildDrafts: false
