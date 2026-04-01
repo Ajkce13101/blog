@@ -1,4 +1,4 @@
-baseURL: "/
+baseURL: "/"
 title: AJ's Blog
 paginate: 5
 theme: PaperMod
@@ -19,7 +19,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: AJ's Blog
   description: "Welcome  to my blog where I share my thoughts and experiences on various topics. Join me on this journey of discovery and learning!"
-  keywords: [ Portfolio, PaperMod]
+  keywords: [Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]

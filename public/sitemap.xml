@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ajkce13101.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/tags/homelab/</loc>
+    <loc>/tags/homelab/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/posts/hello-world/</loc>
+    <loc>/posts/hello-world-new-what-is-happening/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/tags/proxmox/</loc>
+    <loc>/tags/proxmox/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/tags/server/</loc>
+    <loc>/tags/server/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2026-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ajkce13101.github.io/archives/</loc>
+    <loc>/archives/</loc>
   </url>
 </urlset>
