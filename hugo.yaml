@@ -1,9 +1,9 @@
-baseURL: "/"
+baseURL: "https://ajkce13101.github.io/blog/"
 title: AJ's Blog
 paginate: 5
 theme: PaperMod
 
-relativeURLs: true
+relativeURLs: false
 canonifyURLs: true
 enableRobotsTXT: true
 buildDrafts: false
